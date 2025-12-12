@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Nejc 👋  
+### Researcher in Advanced Technologies • Blockchain × Robotics • AI Agents • Emerging Tech Innovator
 
-<!--
-**NejcRozman/NejcRozman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a university researcher exploring the intersection of **blockchain systems**,  
+**machine economy**, **AI agents**, and **autonomous robotics**. My work focuses on  
+how intelligent machines and decentralized technologies can coordinate, interact,  
+and operate autonomously.
 
-Here are some ideas to get you started:
+Alongside research, I explore **innovation in emerging technologies** and work on  
+early-stage ideas that bridge academic prototypes with real-world entrepreneurial impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+- Blockchain-enabled autonomous systems  
+- Coordination mechanisms for AI agents  
+- Machine economy & decentralized machine-to-machine interactions  
+- Robotics + distributed systems  
+- DePIN, DeSci, and future decentralized infrastructures  
+- Emerging technologies & deep tech innovation  
+
+---
+
+## 🛠️ Tech & Tools
+**Languages & Frameworks**  
+- Solidity  
+- JavaScript (MERN stack)  
+- Python (simulation, analytics, experimental prototypes)  
+- LangChain & LangGraph (agentic experiments)
+
+**Domains**  
+- Blockchain protocols  
+- Autonomous robots  
+- Distributed systems  
+- AI agent architectures  
+- Web3 R&D  
+
+---
+
+## 🚀 Current Work
+- Research on **AI-agent coordination with blockchain**  
+- Experiments in **autonomous robotic control using decentralized systems**  
+- Building prototypes and simulations for emerging machine economy use cases  
+- Side projects in **Web3, DePIN, and DeSci**
+
+---
+
+## 🏆 Selected Hackathon Experience
+I have developed several research-driven prototypes and concept systems,  
+participating in—and winning—multiple hackathons with my project team.
+
+---
+
+## 📫 Connect with Me
+- [**LinkedIn**](https://www.linkedin.com/in/nejc-ro%C5%BEman-51567917b/) 
+- [**X/Twitter**](https://x.com/RozNejc)
+
+---
+
+### ⚡ _“Exploring the future of intelligent, autonomous systems — from labs to real-world impact.”_
