@@ -1,13 +1,9 @@
 # Hi, I'm Nejc 👋  
 ### Researcher in Advanced Technologies • Blockchain × Robotics • AI Agents • Emerging Tech Innovator
 
-I am a university researcher exploring the intersection of **blockchain systems**,  
-**machine economy**, **AI agents**, and **autonomous robotics**. My work focuses on  
-how intelligent machines and decentralized technologies can coordinate, interact,  
-and operate autonomously.
+I am a university researcher exploring the intersection of **blockchain systems**, **machine economy**, **AI agents**, and **autonomous robotics**. My work focuses on how intelligent machines and decentralized technologies can coordinate, interact, and operate autonomously.
 
-Alongside research, I explore **innovation in emerging technologies** and work on  
-early-stage ideas that bridge academic prototypes with real-world entrepreneurial impact.
+Alongside research, I explore **innovation in emerging technologies** and work on early-stage ideas that bridge academic prototypes with real-world entrepreneurial impact.
 
 ---
 
