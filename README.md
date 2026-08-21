@@ -41,16 +41,8 @@ Alongside research, I explore **innovation in emerging technologies** and work o
 
 ---
 
-## 🏆 Selected Hackathon Experience
-I have developed several research-driven prototypes and concept systems,  
-participating in—and winning—multiple hackathons with my project team.
-
----
-
 ## 📫 Connect with Me
 - [**LinkedIn**](https://www.linkedin.com/in/nejc-ro%C5%BEman-51567917b/) 
 - [**X/Twitter**](https://x.com/RozNejc)
 
 ---
-
-### ⚡ _“Exploring the future of intelligent, autonomous systems — from labs to real-world impact.”_
